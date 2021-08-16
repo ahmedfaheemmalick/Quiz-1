@@ -2,7 +2,7 @@
  
 [live Site](https://a-quiz-app.netlify.app/)
 
-![Quiz App](/public/preview.png)
+![Quiz App](/src/preview.png)
 
 This is the code repo of Quiz App. There I used:
   * [React](https://reactjs.org)
