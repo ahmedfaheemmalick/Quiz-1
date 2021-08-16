@@ -1,6 +1,6 @@
 # Quiz App
  
-[live Site](https://a-quiz-app.netlify.app/)
+[live Site](https://a-quiz-appp.netlify.app/)
 
 ![Quiz App](/src/preview.png)
 
