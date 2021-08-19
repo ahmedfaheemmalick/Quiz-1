@@ -3,7 +3,7 @@ import { FormControl, FormControlLabel, Radio, RadioGroup } from '@material-ui/c
 import { questionPropType } from '../../Types'
 import styles from './QuestionCard.module.css';
 
-const QuestionCard: React.FC<questionPropType> = ({ question, answer, option, totalQuestion, currentQuestion, handleSubmit }) => {
+const QuestionCard: React.FC<questionPropType> = ({ question, option, totalQuestion, currentQuestion, handleSubmit }) => {
 
     const [selectedAns, setSelectedAns] = useState('')
 

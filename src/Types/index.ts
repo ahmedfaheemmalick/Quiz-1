@@ -33,7 +33,6 @@ export type inputPropType = {
 
 export type questionPropType = {
     question: string
-    answer: string
     option: string[]
     totalQuestion: number
     currentQuestion: number

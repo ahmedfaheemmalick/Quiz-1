@@ -67,7 +67,6 @@ const App = () => {
       {showQuestionCard &&
         <QuestionCard
           question={quiz[step].question}
-          answer={quiz[step].answer}
           option={quiz[step].option}
           totalQuestion={quiz.length}
           currentQuestion={step}
